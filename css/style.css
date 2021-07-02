@@ -1,0 +1,42 @@
+body{
+    font-family: 20px sans-serif;
+    color: #fff;
+}
+
+.margin{
+    padding-top: 18px;
+    padding-bottom: 40px;
+}
+
+.quem-somos{
+    background-color: #00a7d1;
+}
+ 
+img {
+     margin-bottom: 15px;
+ }
+
+ .parceiros{
+     background-color: #e75e5e;
+     padding-bottom: 70px;
+ }
+
+ .mobile-image{
+     height: 432px;
+ }
+
+ .servicos{
+    background-color: #80cc80;
+ }
+
+ .rounded-border{
+     border-radius: 15px;
+ }
+
+ p{
+     font-size: 20px;
+ }
+
+ .bg-footer{
+     background-color: black;
+ }
